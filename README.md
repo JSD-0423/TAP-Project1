@@ -2,4 +2,12 @@
 
 # Features
 
-make this website using HTML and CSS and learn more about responsive designs
+make this website using HTML and CSS
+
+-responsive designs
+
+-Dark Mode
+
+-details page
+
+
